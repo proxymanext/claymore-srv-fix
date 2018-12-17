@@ -19,4 +19,4 @@ this is patch for you.
 It is not takes additional fees, not breack your hashrate.  
 I doing this fix for myself and my rigs. Use it as is
 
-
+**[DOWNLOAD HERE](https://github.com/proxymanext/claymore-srv-fix/releases/download/11.9-e1/Claymore.ETH.11.9.fix.zip)**
